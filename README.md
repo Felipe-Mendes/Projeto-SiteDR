@@ -1,4 +1,4 @@
-# Implementação de Disaster Recovery com Oracle Cloud (OCI)
+# Implementação de Disaster Recovery com OCI
 
 
 
