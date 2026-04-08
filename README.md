@@ -1,6 +1,6 @@
 # Projeto-SiteDR
 
-# Implementação de Disaster Recovery (DR) Híbrido com Oracle Cloud Infrastructure (OCI)
+# Implementação de Disaster Recovery (DR) com Oracle Cloud Infrastructure (OCI)
 
 
 ## 1. O Desafio: Continuidade de Negócios para uma Grande Universidade
